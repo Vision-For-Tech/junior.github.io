@@ -1,4 +1,6 @@
 ---
+layout: default
+
 title: Notes
 ---
 
@@ -19,3 +21,4 @@ Clarity over polish.
 - [Integrals](integrals/)
 - [Physics](physics/)
 - [Olympiad](olympiad/)
+
